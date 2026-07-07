@@ -39,9 +39,9 @@ Click the Shorten URL button.
 Copy and share the generated short link.
 🌐 Live Demo
 
-Add your deployed project link here after deployment.
+Add your deployed project link here.
 
-https://anand98prakash.github.io/URL-Shortener/
+https://github.com/anand98prakash/URL-Shortener
 🎯 Learning Outcomes
 
 This project helped strengthen my understanding of:
@@ -71,6 +71,6 @@ This project is licensed under the MIT License.
 Anand Prakash
 
 GitHub: https://github.com/anand98prakash
-LinkedIn: https://www.linkedin.com/in/anand-prakash-011534296
+LinkedIn: https://www.linkedin.com/in/anand-prakash-a7006b270/
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub!
